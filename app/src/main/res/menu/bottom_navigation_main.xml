@@ -5,19 +5,19 @@
     <item
         android:id="@+id/app_KioskMain"
         android:enabled="true"
-        android:icon="@drawable/ic_app_tab_kioskmain"
+        android:icon="@drawable/ic_kiosk_main"
         android:title="@string/app_title_kiosk_main"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/app_NewsMain"
         android:enabled="true"
-        android:icon="@drawable/ic_app_tab_newsmain"
+        android:icon="@drawable/ic_news_main"
         android:title="@string/app_title_news"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/app_NotificationsMain"
         android:enabled="true"
-        android:icon="@drawable/ic_app_tab_notificationsmain"
+        android:icon="@drawable/ic_notifications_main"
         android:title="@string/app_title_notifications"
         app:showAsAction="ifRoom" />
 
