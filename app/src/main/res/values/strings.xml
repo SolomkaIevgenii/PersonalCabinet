@@ -5,4 +5,7 @@
     <string name="app_title_save_password">Сохранить пароль</string>
     <string name="app_title_password">Пароль</string>
     <string name="app_title_login">Логин</string>
+    <string name="app_title_notifications">Заявки</string>
+    <string name="app_title_news">Новости</string>
+    <string name="app_title_kiosk_main">Мониторинг терминалов</string>
 </resources>

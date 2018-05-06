@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_KioskMain"
+        android:enabled="true"
+        android:icon="@drawable/ic_app_tab_kioskmain"
+        android:title="@string/app_title_kiosk_main"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/app_NewsMain"
+        android:enabled="true"
+        android:icon="@drawable/ic_app_tab_newsmain"
+        android:title="@string/app_title_news"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/app_NotificationsMain"
+        android:enabled="true"
+        android:icon="@drawable/ic_app_tab_notificationsmain"
+        android:title="@string/app_title_notifications"
+        app:showAsAction="ifRoom" />
+
+</menu>
