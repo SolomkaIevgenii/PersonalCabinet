@@ -19,12 +19,10 @@
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/bottom_navigation"
-        style="@style/Widget.Design.BottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_gravity="bottom"
-        android:background="@color/colorPrimaryDark"
+        android:background="@color/colorWhite"
         app:itemIconTint="@drawable/nav_item_color_state"
         app:itemTextColor="@drawable/nav_item_color_state"
         app:layout_constraintBottom_toBottomOf="parent"

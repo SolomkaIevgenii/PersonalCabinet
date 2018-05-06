@@ -8,4 +8,5 @@
     <string name="app_title_notifications">Заявки</string>
     <string name="app_title_news">Новости</string>
     <string name="app_title_kiosk_main">Мониторинг терминалов</string>
+    <string name="app_title_blocked_transactions">Мошеннические операции</string>
 </resources>

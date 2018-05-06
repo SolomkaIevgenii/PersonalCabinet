@@ -20,5 +20,11 @@
         android:icon="@drawable/ic_notifications_main"
         android:title="@string/app_title_notifications"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/app_BlockedTransactions"
+        android:enabled="true"
+        android:icon="@drawable/ic_blocked_transactions"
+        android:title="@string/app_title_blocked_transactions"
+        app:showAsAction="ifRoom" />
 
 </menu>
