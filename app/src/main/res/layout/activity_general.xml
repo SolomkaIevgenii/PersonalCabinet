@@ -17,15 +17,15 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:menu="@menu/bottom_navigation_main" />
 
-    <FrameLayout
-        android:id="@+id/fragmentKiosk"
+    <fragment
+        android:id="@+id/fragmentGeneral"
+        android:name="com.example.john.pc_2.fragmant.KioskFragment"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_height="match_parent"
         app:layout_constraintBottom_toTopOf="@+id/bottom_navigation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:listitem="@layout/fragment_kiosk">
+        tools:layout="@layout/fragment_news" />
 
-    </FrameLayout>
 </android.support.constraint.ConstraintLayout>
